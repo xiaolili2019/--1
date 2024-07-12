@@ -23,5 +23,6 @@ $$
 ### 目的
 
 通过调整 `x` 的值，你可以找到使总成本 `C` 最小化的最优值 `x`。
+![image](https://github.com/user-attachments/assets/4e7566ac-ba94-4a76-aa6b-397f514ea27e)
 
 
