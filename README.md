@@ -28,6 +28,6 @@ $$
 
 
 这个模型非常简单还有很多因素应该考虑。
-![889dc6749c315356ca5adaa6501a39d](https://github.com/user-attachments/assets/f48837a4-9f33-4404-a61a-78f5e34b1056){:width="300px" height="200px"}
+![889dc6749c315356ca5adaa6501a39d](https://github.com/user-attachments/assets/f48837a4-9f33-4404-a61a-78f5e34b1056){:width="30px" height="20"}
 
 
