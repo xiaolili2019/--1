@@ -26,3 +26,8 @@ $$
 ![image](https://github.com/user-attachments/assets/4e7566ac-ba94-4a76-aa6b-397f514ea27e)
 
 
+
+这个模型非常简单还有很多因素应该考虑。
+![889dc6749c315356ca5adaa6501a39d](https://github.com/user-attachments/assets/f48837a4-9f33-4404-a61a-78f5e34b1056)
+
+
